@@ -25,7 +25,7 @@ HLSとビルトインのAXIクロスバでは，うまくHBMの帯域を有効�
 ## 検証方法
 U280に実装．
 - バケットソート: 実効バンド幅が65GB/s -> 203GB/s〜108GB/sに．
- - BW^2/LUTとBW^2/BRAMを指標に評価．それぞれ，6.5倍と9.8倍が最大．
+  - BW^2/LUTとBW^2/BRAMを指標に評価．それぞれ，6.5倍と9.8倍が最大．
 マージソート: 実効バンド幅が9.4GB/sがベースライン
  - BW^2/LUTとBW^2/BRAMを指標に評価．それぞれ，211倍と85倍が最大．
 
@@ -41,5 +41,5 @@ HBMとDDRの比較は[19, 27]．[27]はShuhai(RTLベースのHBMベンチマー�
 
 ## その他メモ
 - データ転送帯域の目安
- - [8] Virtex-7 690T<->DRAM: 13GB/s, Tesla K40: 290GB/s
- - [21] Sandy Brdge E5-2670<->DRAM: 42GB/s
+  - [8] Virtex-7 690T<->DRAM: 13GB/s, Tesla K40: 290GB/s
+  - [21] Sandy Brdge E5-2670<->DRAM: 42GB/s
