@@ -33,10 +33,11 @@ U280に実装．
 
 ## 関連研究
 HBMとDDRの比較は[19, 27]．[27]はShuhai(RTLベースのHBMベンチマーク)
+- [19] A. Lu, et al., "Demystifying the memory system of modern datacenter FPGAs for software programmers through microbenchmarking"
+- [27] Z. Wang, et al., "Shuhai: Benchmarking High Bandwidth Memory on FPGAs"
+
 ヘテロジニアスなメモリ階層向け最適化のケーススタディは[20]を参照
-[19] A. Lu, et al., "Demystifying the memory system of modern datacenter FPGAs for software programmers through microbenchmarking"
-[27] Z. Wang, et al., "Shuhai: Benchmarking High Bandwidth Memory on FPGAs"
-[20] H. Miao, et al., "StreamboxHBM: Stream analytics on high bandwidth hybrid memory"
+- [20] H. Miao, et al., "StreamboxHBM: Stream analytics on high bandwidth hybrid memory"
 
 ## その他メモ
 - データ転送帯域の目安
