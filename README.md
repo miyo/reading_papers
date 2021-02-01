@@ -1,4 +1,4 @@
-# Rreading papers
+# Reading papers
 
 - [Optimizing Remote Accesses for Offloaded Kernels: Application to High-Level Synthesis for FPGA](06513573.md) @PPoPP2012
 - [Evaluating the Imagine Stream Architecture](1028176.1006734.md) @ISCA2004
