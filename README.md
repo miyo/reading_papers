@@ -7,3 +7,5 @@
 - [HBM Connect: High-Performance HLS Interconnect for FPGA HBM](fpga21_hbm_connect.md) @FPGA2021
 - [Communication Scheduling](378993.379005.md) @ASPLOS2000
 - [Stream scheduling](ada419624.md)
+- [Nanoseconds Timing System Based on IEEE 1588 FPGA Implementation](8669820.md)
+- [Hardware Assisted Clock Synchronization with the IEEE 1588-2008 Precision Time Protocol](3273905.3273920.md) @RTNS2018
