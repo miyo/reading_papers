@@ -9,3 +9,4 @@
 - [Stream scheduling](ada419624.md)
 - [Nanoseconds Timing System Based on IEEE 1588 FPGA Implementation](8669820.md)
 - [Hardware Assisted Clock Synchronization with the IEEE 1588-2008 Precision Time Protocol](3273905.3273920.md) @RTNS2018
+- [High-Level Synthesis of Functional Patterns with Lift](3315454.3329957.md)
