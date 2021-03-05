@@ -4,7 +4,7 @@
 
 ## 概要
 
-- FPGA で workload migration と multi-tenancy を実現した
+- FPGA仮想化のためのJITとリソース管理/プロテクションレイヤをあわせたSYNERGYの提案
 
 ## 背景
 
